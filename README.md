@@ -1,1 +1,5 @@
 # OIBSIP-Task3
+# CAR PRICE PREDICTION WITH MACHINE LEARNING
+The dataset taken from the task it contains Car_Name,Selling_Price,	Present_Price,	Driven_kms,	Fuel_Type,	Selling_type,	Transmission	,Owner	,Age
+
+Welcome to the Car Selling Price Prediction repository! This project is your go-to guide for predicting car selling prices using Python. Starting with essential libraries like Pandas, NumPy, and machine learning models (Linear Regression, Random Forest Regressor, Gradient Boosting Regressor, XGBoost Regressor), we've crafted a comprehensive step-by-step process. From loading and inspecting the 'Car Data' dataset to preprocessing, exploratory data analysis (EDA), and outlier removal, each step contributes to a robust analysis. Categorical features like 'Owner,' 'Car_Name,' 'Fuel_Type,' 'Selling_type,' and 'Transmission' are explored visually through count plots and bar plots. We've even delved into numerical features, tackling outliers for improved model accuracy. The encoding of categorical features and subsequent model building and training pave the way for predictions and evaluations.
